@@ -11,7 +11,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/eoscanada/eos-go/ecc"
+	"github.com/blockpane/eos-go/ecc"
 	"go.uber.org/zap"
 )
 
